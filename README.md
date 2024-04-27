@@ -10,11 +10,11 @@
 
 - 📫 How To Reach Me **ksugandh0@gmail.com**
 
-- 📄 Know About My Experiences **[LinkdIn](https://www.linkedin.com/in/isugandhkumar/)**
+- 📄 Know About My Experiences **[LinkdIn](https://www.linkedin.com/in/isugandh/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sugandh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugandh kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/isugandh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isugandh" height="30" width="40" /></a>
 <a href="https://instagram.com/the_sugandh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_Sugandh" height="30" width="40" /></a>
 </p>
 
