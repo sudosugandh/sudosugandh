@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working as  **Devops Engineer**
 
-- 📫 How To Reach Me **ksugandh0@gmail.com*
+- 📫 How To Reach Me **ksugandh0@gmail.com**
 
 - 📄 Know About My Experiences **[LinkdIn](https://www.linkedin.com/in/isugandhkumar/)**
 
