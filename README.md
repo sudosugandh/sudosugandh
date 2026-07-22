@@ -1,139 +1,97 @@
 <div align="center">
 
-<img src="https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif" alt="" width="100%" />
+<!-- Your banner — paste your DevSecOps image URL here -->
+<img src="YOUR_BANNER_IMAGE_URL" alt="DevSecOps" width="100%" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=140&section=header&text=Sugandh%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Sugandh Kumar" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=0E75B6&center=true&vCenter=true&width=720&lines=DevOps+Engineer+%C2%B7+India;Cloud+%C2%B7+Containers+%C2%B7+Automation;I+turn+messy+releases+into+boring+ones" alt="Typing animation" />
+</a>
 
 <br/><br/>
 
-# Sugandh Kumar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isugandh/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksugandh0@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_sugandh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudosugandh)
 
-### I turn messy releases into boring ones — in the best way.
+<br/>
 
-*DevOps Engineer · India · pipelines, platforms, and the quiet work behind uptime*
-
-<img src="https://komarev.com/ghpvc/?username=sudosugandh&label=visitors&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sudosugandh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## The short version
+### About
 
-I'm **Sugandh**. I work where code meets production: CI/CD, cloud, containers, and the glue scripts nobody notices until 2 a.m.
+I'm **Sugandh**, a **DevOps Engineer** based in **India**. I work where code meets production—**CI/CD**, **cloud**, **containers**, and the automation that keeps teams shipping without heroics.
 
-I'm not chasing every shiny tool. I'm interested in **repeatable deploys**, **recoverable systems**, and **teams that ship without heroics**. If something fails, I want logs, alerts, and a runbook—not panic.
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### What I actually do
-
-- Design and maintain **delivery pipelines** (build → test → promote → observe)
-- Run and harden workloads on **AWS**, **Kubernetes**, and **Linux**
-- Automate the tedious: provisioning, config, rollbacks, hygiene checks
-- Bridge dev and ops—translate “it works on my machine” into “it works in prod”
-
-### Right now
-
-- **Role:** DevOps Engineer (full-time focus on reliability and velocity)
-- **Learning loop:** deeper **K8s** operations, **IaC** discipline, and cleaner **observability** stories
-- **Side quest:** small automations that save someone else an hour every week
-
-### Reach me
-
-| | |
-|---|---|
-| **Email** | [ksugandh0@gmail.com](mailto:ksugandh0@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/isugandh](https://www.linkedin.com/in/isugandh/) |
-| **GitHub** | [@sudosugandh](https://github.com/sudosugandh) |
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://img.freepik.com/premium-vector/devops-engineer-flat-illustration_203633-2089.jpg" alt="DevOps illustration" width="300" />
-
-<br/><br/>
-
-*Production is a conversation between code, config, and humans.<br/>I try to make that conversation shorter.*
-
-</td>
-</tr>
-</table>
+I care about **repeatable deploys**, **recoverable systems**, and **runbooks over panic**. I'm not collecting tools for a résumé; I'm building pipelines that survive real on-call nights.
 
 ---
 
-## How I think about DevOps
+### What I do
 
-Most teams don't need more tools. They need **clear contracts**:
+| Area | Focus |
+|:-----|:------|
+| **Delivery** | Build → test → promote → observe — gated, traceable, boring in prod |
+| **Platform** | **AWS**, **Kubernetes**, **Linux** — limits, networking, and sane defaults |
+| **Automation** | **Bash** & **Python** glue, **Git** as source of truth, **Jenkins** (and friends) |
+| **Edge & data** | **Nginx**, **MySQL** — latency, TLS, backups that actually get tested |
 
-1. **Build artifacts** should be immutable and traceable to a commit.
-2. **Environments** should differ in config, not in mystery.
-3. **Deploys** should be routine enough to do in daylight.
-4. **Incidents** should teach the system, not blame the person on call.
-
-I'm comfortable in the terminal, in YAML, and in a postmortem doc. I like **Bash** and **Python** for glue, **Git** for truth, and **metrics** for ego checks.
-
----
-
-## Toolbox (the honest list)
-
-These are tools I reach for often—not a résumé keyword dump.
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="44" height="44"/></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noopener noreferrer" title="Kubernetes"><img src="https://raw.githubusercontent.com/vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="44" height="44"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="44" height="44"/></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer" title="Jenkins"><img src="https://raw.githubusercontent.com/vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="44" height="44"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git"><img src="https://raw.githubusercontent.com/vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="44" height="44"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer" title="Bash"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="44" height="44"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="44" height="44"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="44" height="44"/></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noopener noreferrer" title="Nginx"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="44" height="44"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="44" height="44"/></a>
-</p>
-
-| Layer | Focus |
-|-------|--------|
-| **Cloud** | AWS primitives, networking basics, least-surprise IAM |
-| **Runtime** | Containers, orchestration, resource limits that match reality |
-| **Delivery** | Jenkins (and friends), gated promotions, sane secrets handling |
-| **Edge & data** | Nginx, MySQL—where latency and backups actually matter |
+**Now:** deepening **K8s** ops, **IaC** discipline, and clearer **observability** stories.
 
 ---
 
-## Elsewhere on the internet
-
-<p>
-  <a href="https://linkedin.com/in/isugandh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="42" />
-  </a>
-  <a href="https://instagram.com/the_sugandh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="42" />
-  </a>
-</p>
-
-LinkedIn for work narrative. Instagram for the human behind the terminal.
-
----
-
-## GitHub in numbers
+### Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudosugandh&show_icons=true&locale=en&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=aws,k8s,docker,jenkins,git,bash,linux,python,nginx,mysql&perline=5&theme=light" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudosugandh&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=0e75b6" alt="Top languages" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudosugandh&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="Contribution streak" />
+  <sub>Icons via <a href="https://skillicons.dev">skillicons.dev</a> — single asset, always loads on GitHub.</sub>
+</p>
+
+---
+
+### How I think about DevOps
+
+> Most teams don't need more tools. They need **clear contracts**: immutable artifacts, config-driven environments, daylight deploys, and incidents that improve the system—not the blame game.
+
+---
+
+### GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudosugandh&theme=github" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudosugandh&theme=github" alt="GitHub stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudosugandh&theme=github" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudosugandh&theme=minimal&hide_border=true&color=0e75b6&line=0e75b6&point=0e75b6&area=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sudosugandh&theme=default&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub streak" />
 </p>
 
 ---
 
 <div align="center">
 
-**If you're hiring, collaborating, or debugging something weird in prod — say hi.**
+**Open to collaboration, hiring, or debugging something weird in prod.**
 
-<sub>README crafted with intent · updated as the stack evolves</sub>
+<sub>README · Sugandh Kumar · DevOps</sub>
 
 </div>
