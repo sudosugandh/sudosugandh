@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Your banner — paste your DevSecOps image URL here -->
-<img src="YOUR_BANNER_IMAGE_URL" alt="DevSecOps" width="100%" />
+<img src="https://raw.githubusercontent.com/6mile/DevSecOps-Playbook/master/images/devsecops-loop-securestack-final-1280x640.png" alt="DevSecOps" width="100%" />
 
 <br/>
 
