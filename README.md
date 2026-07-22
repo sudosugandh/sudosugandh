@@ -33,6 +33,13 @@
 I'm **Sugandh**, a **DevOps Engineer** based in **India**. I work where code meets production—**CI/CD**, **cloud**, **containers**, and the automation that keeps teams shipping without heroics.
 
 I care about **repeatable deploys**, **recoverable systems**, and **runbooks over panic**. I'm not collecting tools for a résumé; I'm building pipelines that survive real on-call nights.
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sudosugandh/sudosugandh/master/assets/devsecops.gif" alt="DevSecOps" width="85%" />
+</p>
+
+<br/>
 
 ---
 
